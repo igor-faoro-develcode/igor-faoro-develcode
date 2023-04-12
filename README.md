@@ -1,16 +1,48 @@
-### Hi there 👋
+### Igor Wilian Faoro
 
-<!--
-**igor-faoro-develcode/igor-faoro-develcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗺 Caxias do Sul - RS<br>
+💻 Software Developer<br>
+🤠 Country Music<br>
+🏞️ Outdoor<br>
+**https://linktr.ee/igorwfaoro**
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/igorwfaoro-blue?logo=linkedin&style=flat">
+</a>
+<a href="https://www.instagram.com/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/igorwfaoro-blue?color=CB2770&logo=instagram&logoColor=fff&style=flat">
+</a>
+<a href="https://www.instagram.com/igorwfaoro" target="_blank">
+  <img src="https://img.shields.io/badge/igorwfaoro-blue?color=1CCC5B&logo=spotify&logoColor=fff&style=flat">
+</a>
+<a href="mailto:igor.faoro17@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/igorwfaoro-blue?color=E02E23&logo=gmail&logoColor=fff&style=flat">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+<div style="display: flex"><br>
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+</div>
+
+<br>
+  
+<div>
+  <div style="display: flex">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igor-faoro-develcode&theme=dracula&card_width=30"/>
+  </div>
+
+  <div style="display: flex; gap: 10px">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor-faoro-develcode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-faoro-develcode&layout=compact&hide_border=true&theme=dracula"/>
+  </div>
+</div>
+
+![Snake animation](https://github.com/igor-faoro-develcode/igor-faoro-develcode/blob/output/github-contribution-grid-snake.svg)
+  
